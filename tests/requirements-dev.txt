@@ -1,0 +1,10 @@
+# FILE: tests/requirements-dev.txt
+pytest==8.3.2
+pytest-asyncio==0.23.8
+httpx==0.27.2
+requests==2.32.3
+respx==0.21.1
+testcontainers==4.8.1
+orjson==3.10.7
+aiokafka==0.10.0
+psycopg[binary]==3.2.1
