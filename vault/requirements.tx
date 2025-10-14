@@ -1,0 +1,15 @@
+# FILE: vault/requirements.txt
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+prometheus-client==0.20.0
+pydantic==2.8.2
+pydantic-settings==2.4.0
+python-json-logger==2.0.7
+blake3==0.4.1
+orjson==3.10.7
+psycopg[binary]==3.2.1
+psycopg_pool==3.2.1
+opentelemetry-sdk==1.26.0
+opentelemetry-exporter-otlp==1.26.0
+opentelemetry-instrumentation-fastapi==0.47b0
+aiokafka==0.10.0
